@@ -1,3 +1,3 @@
 # learn 
 # readme.edits
-this repo contains a html and css file for a **restaurant website**.
+this repo contains html, css, javascript and bootstrap files
